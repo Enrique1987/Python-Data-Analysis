@@ -9,3 +9,9 @@ Here is my work related with Python Data Analysis. In this repository, I have th
 
 FreeCodeCamp - Data Analysis python [link](https://www.freecodecamp.org/news/learn-data-analysis-with-python-course/)
 
+---
+
+Data Analysis for Sales-Bike: [Jupiter](/Sales-Bike/Sales.ipynb)
+
+
+
