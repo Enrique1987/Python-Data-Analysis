@@ -11,7 +11,10 @@ FreeCodeCamp - Data Analysis python [link](https://www.freecodecamp.org/news/lea
 
 ---
 
-Data Analysis for Sales-Bike: [Jupiter](/Sales-Bike/Sales.ipynb)
+Data Analysis:
+ - Sales-Bike: [Notebook](/Sales-Bike/Sales.ipynb)
+ - Sakila: [Notebook](/sakila/The20%Sakila20%Database.ipynb)
 
+Randomize Dataframe [Notebook](/Randomize_existing_Dataframe.ipynb)
 
 
